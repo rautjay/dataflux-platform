@@ -1,0 +1,14 @@
+# Java
+target/
+*.class
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Uploads
+uploads/*.csv
