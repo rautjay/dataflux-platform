@@ -2,6 +2,9 @@
 target/
 *.class
 
+# Maven wrapper logs
+.mvn/
+
 # Logs
 logs/
 *.log
@@ -10,5 +13,11 @@ logs/
 .vscode/
 .idea/
 
-# Uploads
+# OS
+.DS_Store
+
+# Upload files
 uploads/*.csv
+
+# Environment
+.env
