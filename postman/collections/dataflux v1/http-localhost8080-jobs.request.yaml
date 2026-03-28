@@ -1,0 +1,8 @@
+$kind: http-request
+name: http://localhost8080/jobs
+url: http://localhost8080/jobs
+method: POST
+body:
+  type: json
+  content: ""
+order: 1773652769977

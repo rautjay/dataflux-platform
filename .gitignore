@@ -21,3 +21,6 @@ uploads/*.csv
 
 # Environment
 .env
+
+#POSTMAN
+.postman
